@@ -19,6 +19,7 @@ Rails.application.routes.draw do
 
   # Supprimer un restaurant
   # delete "restaurants/:id" => "restaurants#destroy"
+  #right
 
   resources :restaurants
 
